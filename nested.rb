@@ -16,6 +16,7 @@ def hopper
         }
      }
 
+return programmer_gash[:grace_hopper]
 
 end
 
